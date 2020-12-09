@@ -43,15 +43,15 @@
 
 
 
-.avatar-1BDn8e[src*="you"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+.avatar-1BDn8e[src*="593970052521525248"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "";
   width: 14px;
   background-position: left, right;
-  background-image: url('https://static.wikia.nocookie.net/minecraft/images/4/40/Block_of_Diamond.png/revision/latest?cb=20200825193522');
+  background-image: url('https://i.imgur.com/XSstjRO.png');
 }
-.avatar-1BDn8e[src*="you"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+.avatar-1BDn8e[src*="593970052521525248"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "";
-  background-image: url('https://static.wikia.nocookie.net/minecraft/images/4/40/Block_of_Diamond.png/revision/latest?cb=20200825193522') !important;
+  background-image: url('https://i.imgur.com/XSstjRO.png') !important;
   background-color: transparent !important;
   padding: 0 !important;
   transform: none!important;
