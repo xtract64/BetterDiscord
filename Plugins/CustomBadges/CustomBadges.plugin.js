@@ -9,7 +9,7 @@
  * @updateUrl https://raw.githubusercontent.com/AnyMinorDeerPanda/BetterDiscord/main/Plugins/CustomBadges/CustomBadges.plugin.js
  */
 
-module.exports = class ExamplePlugin {
+module.exports = class CustomBadges {
     load() {} // Optional function. Called when the plugin is loaded in to memory
 
     start() {} // Required function. Called when the plugin is activated (including after reloads)
