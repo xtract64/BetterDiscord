@@ -21,7 +21,7 @@ module.exports = (_ => {
 		"changeLog": {
 			"Whats this?": {
 				"It's Alive!": "Plugin Created."
-			},
+			}
 			
 		}
 	};
