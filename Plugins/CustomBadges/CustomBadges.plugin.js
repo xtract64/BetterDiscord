@@ -1,6 +1,6 @@
 /**
  * @name CustomBadges
- * @author Xtract
+ * @author Xtract (エキス)
  * @description Allows for Custom Badges on Discord
  * @version 0.0.1
  * @invite 37jw4DYbBb
