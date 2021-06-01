@@ -1,8 +1,5 @@
 /**
  * @name CustomBadges
- * @author Xtract (エキス)
- * @description Allows for Custom Badges on Discord
- * @version 0.0.1
  * @invite 37jw4DYbBb
  * @authorId 532709351887077385
  * @source https://github.com/AnyMinorDeerPanda/BetterDiscord/tree/main/Plugins/CustomBadges
@@ -10,6 +7,12 @@
  */
 
 module.exports = class CustomBadges {
+
+	getName(){ return "Custom Badges" }
+	getDescription(){ return "Allows for Custom Badges on Discord" }
+	getAuthor(){ return "Xtract (エキス)" }
+	getVersion(){ return "0.0.1" }
+
     load() {} // Optional function. Called when the plugin is loaded in to memory
 
     start() {} // Required function. Called when the plugin is activated (including after reloads)
