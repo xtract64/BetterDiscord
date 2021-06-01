@@ -3,7 +3,7 @@
  * @invite 37jw4DYbBb
  * @authorId 532709351887077385
  * @source https://github.com/AnyMinorDeerPanda/BetterDiscord/tree/main/Plugins/CustomBadges
- * @updateUrl https://raw.githubusercontent.com/AnyMinorDeerPanda/BetterDiscord/main/Plugins/CustomBadges/CustomBadges.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/AnyMinorDeerPanda/BetterDiscord/main/Plugins/CustomBadges/BadgesPlus.plugin.js
  */
 
 module.exports = class CustomBadges {
