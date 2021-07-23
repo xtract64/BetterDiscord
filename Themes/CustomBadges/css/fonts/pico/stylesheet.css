@@ -3,9 +3,9 @@
 
 
 @font-face {
-    font-family: 'pico-8_wideregular';
-    src: url('pico-8_wide.woff2') format('woff2'),
-         url('pico-8_wide.woff') format('woff');
+    font-family: 'pico-8';
+    src: url('https://github.com/AnyMinorDeerPanda/BetterDiscord/blob/e1d374f6859cdf395446bacccab667ea7feff450/Themes/CustomBadges/css/fonts/pico/pico-8_wide.woff') format('woff2'),
+         url('https://github.com/AnyMinorDeerPanda/BetterDiscord/blob/e1d374f6859cdf395446bacccab667ea7feff450/Themes/CustomBadges/css/fonts/pico/pico-8_wide.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 
